@@ -110,3 +110,6 @@ cov.xml
 coverage.xml
 junit.xml
 /fake_project
+
+# Project ENV setups
+**/env/

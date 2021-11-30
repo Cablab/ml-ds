@@ -19,6 +19,7 @@
 - An environment is a collection of packages and/or tools
 - Conda can create environments and install new packages to the environment
 - Conda allows easy recreation of a given environment elsewhere so its easy to share workspaces
+- List all environments with `conda env list`
 
 ### Installation Steps
 
