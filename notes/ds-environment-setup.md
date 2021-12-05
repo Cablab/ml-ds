@@ -78,3 +78,13 @@ Other helpful commands:
 - You can run terminal commands straight in Jupyter Notebooks
   - Unix commands might work just with the command, like `ls`
   - Windows cmd commands may need an `!` in front, like `!dir`
+
+## Upgrading Packages in Conda Environment
+
+- Activate Conda environment
+- Use `conda list` to see all installed packages
+- Use `conda update <package-name>` 
+- If you want to install a specific version, you can use `conda search <package-name>`
+  - This will list all versions available for the specified package
+  - You can also pass `--info` to see verbose info about each version
+- Install a specific package version with `conda install <package-name>=<version-number>`
