@@ -5,7 +5,6 @@
 - [Pandas Intro Jupyter Notebook](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas.ipynb)
 - [Pandas Intro Jupyter Notebook (from video)](https://github.com/mrdbourke/zero-to-mastery-ml/blob/master/section-2-data-science-and-ml-tools/introduction-to-pandas-video.ipynb)
 
-
 ## Notes and Notebooks
 
 - [Detailed Jupyter Notebook with examples and notes](../learning-projects/intro-pandas-notes.ipynb)
