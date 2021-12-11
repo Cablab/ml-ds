@@ -56,7 +56,8 @@
 - Export the environment as a YAML file if you need to share it with another computer
   - `conda env export --prefix <path/to/project/env > environment.yml`
 - Create an environment from a YAML file
-  - `conda env create --file environment.yml --name env_from_file`
+  - `conda env create --prefix ./env -f <path to file>`
+  - Alternative?? `conda env create --file environment.yml --name env_from_file`
 
 ## Jupyter Notebook Walkthrough
 
